@@ -263,7 +263,7 @@ public class ColorPicker extends JPanel {
 
         setOpaque(this, false);
 
-        setColor(Color.BLACK);
+        setColor(Color.WHITE);
         setMode(ColorPickerMode.BRIGHTNESS);
     }
 
